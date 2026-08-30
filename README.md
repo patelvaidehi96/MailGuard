@@ -40,8 +40,19 @@ The app opens automatically in your browser at `localhost:8501`.
 
 Use the built-in "Load phishing sample" and "Load clean sample" buttons to see the tool in action instantly, or upload your own `.eml` file.
 
+## Demo Video
+
+Watch the full demo here: 
+
+https://github.com/user-attachments/assets/95be9dec-e803-41fb-bafa-f553216fdd91
+
+The video demonstrates:
+- Analyzing a phishing email (high risk detection)
+- Analyzing a clean email (low risk detection)
+- Generating and downloading the forensic report
 ## Team
 
 **Team Vigil** — Smart India Hackathon 2026
+
 
 
